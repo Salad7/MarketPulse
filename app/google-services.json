@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "477137631786",
+    "project_id": "marketpulse-7cbb6",
+    "storage_bucket": "marketpulse-7cbb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477137631786:android:0f256261b569e6e7a3a153",
+        "android_client_info": {
+          "package_name": "com.example.marketpulse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477137631786-g6aojtdm07s5jc1q99vkjurj1i7m4196.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPKq_1dLnL4INiptAxbEhJBmLO225UKwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477137631786-g6aojtdm07s5jc1q99vkjurj1i7m4196.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
